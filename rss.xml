@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PRINTING IN NYC]]></title>
-        <description><![CDATA[PRINTING IN NYC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Elegant Printing Arts  www.stylishgalleryprint.com  718-749-3520]]></title>
+        <description><![CDATA[Elegant Printing Arts  www.stylishgalleryprint.com  718-749-3520]]></description>
+        <link>https://thegrid.ai/printing-in-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 17:04:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 19:40:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/printing-in-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Printing In NYC]]></title>
+            <description><![CDATA[<article><h1>Printing In NYC</h1><p>Stylish Printing In NYC , hight quality printing studio in Queens NYC www.stylishgalleryprint.com   718.749.3520</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47b65e1d431ace23128a6aeb60a1667a28c7e16e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/printing-in-nyc/printing-in-nyc/index.html</link>
+            <guid isPermaLink="false">e52789bc-26bf-4d77-876a-f0c5de86996a</guid>
+            <pubDate>Wed, 27 Jan 2016 19:40:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Printing in NYC]]></title>
             <description><![CDATA[<article><h1>Printing in NYC</h1><p>Stylish Printing a Premium quality company in New York City Queens 718-749-3520</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd41c5c22faea4d858e44c86594f8b972d929e03.jpg"></article>]]></description>
-            <link>undefinedprinting-in-nyc/index.html</link>
+            <link>https://thegrid.ai/printing-in-nyc/printing-in-nyc/index.html</link>
             <guid isPermaLink="false">79e008a8-69c9-46e5-bf12-eeb30387f800</guid>
             <pubDate>Tue, 26 Jan 2016 17:01:55 GMT</pubDate>
         </item>
