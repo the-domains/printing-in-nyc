@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T19:40:43.617Z'
-dateModified: '2016-01-27T19:40:00.820Z'
+datePublished: '2016-01-27T19:41:13.500Z'
+dateModified: '2016-01-27T19:41:10.267Z'
 title: Printing In NYC
 author: []
 authors: []
