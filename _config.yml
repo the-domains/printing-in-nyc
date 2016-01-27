@@ -1,6 +1,6 @@
 name: PRINTING IN NYC
 favicon: null
-layout_spectrum: 0.97195
+layout_spectrum: 0.62057
 typography_spectrum: 0.8980647090356797
 title: Elegant Printing Arts  www.stylishgalleryprint.com  718-749-3520
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.1875
-  lightness: 0.7738397819921374
-  saturation: 0.4375
+  lightness: 0.6875
+  saturation: 0.625
   rhythmicContrast: 0.1478716970887035
 purpose: []
